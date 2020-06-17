@@ -3,5 +3,5 @@ spring:
     url: jdbc:mysql://localhost:3306/user_center
     hikari:
       username: root
-      password: root123
-      driver-class-name: com.mysql.cj.jdbc.Drver
+      password: admin
+      driver-class-name: com.mysql.cj.jdbc.Driver
